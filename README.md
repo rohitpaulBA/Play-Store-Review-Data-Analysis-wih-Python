@@ -55,8 +55,8 @@ Key findings from EDA:
 ## 🚀 How to Run the Project  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/rohitpaul09/PlayStoreAppReviewAnalysis.git
-   cd PlayStoreAppReviewAnalysis
+   git clone https://github.com/rohitpaulBA/Play-Store-Review-Data-Analysis-wih-Python
+   cd Play-Store-Review-Data-Analysis-wih-Python
    ```  
 2. Install dependencies:  
    ```bash
